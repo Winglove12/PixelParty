@@ -1,0 +1,8 @@
+main: pixelparty.PPCore
+name: PPCore
+version: 1.0
+depend: [ModelEngine, MayhemCore]
+api-version: 1.16
+commands:
+  ma:
+    aliases: [mapadmin]
